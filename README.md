@@ -30,7 +30,7 @@ Output = Kp * error + Kd * (error - previous_error)
 - PD controller tuning experiments  
 
 ## Project Structure
-- `/src` — source code  
+- `/unreal_line_foolower` — source code  
 - `/docs` — documentation  
 - `/hardware` — sensors and wiring  
 
